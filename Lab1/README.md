@@ -12,4 +12,7 @@
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/1be63b29-122d-4775-a1c1-20fc2c976068)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/4750ad86-cc26-41d2-9c52-35dcf6595bbd)
 ### Steps from 2.3:
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/73e0f3eb-f02b-40f2-852f-e275cd61da9f)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/3ab9496f-598b-4fbb-a785-11acbdd1451e)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/044b49c1-ec27-4a87-8624-a1d4375c8571)
 
