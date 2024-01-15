@@ -15,4 +15,8 @@
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/73e0f3eb-f02b-40f2-852f-e275cd61da9f)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/3ab9496f-598b-4fbb-a785-11acbdd1451e)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/044b49c1-ec27-4a87-8624-a1d4375c8571)
-
+### Step 2.3.2 Write a Dockerfile:
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/f13a5c32-3c60-44c6-a631-865214ade2c4)
+### Step 2.3.3 Build the image:
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/9ef4faea-3ad0-4724-93a0-daeda10c9d77)
+### Step 2.3.4 Run your image:
