@@ -23,4 +23,7 @@
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/025348f2-c484-499d-8a12-f83609326629)
 ### Step 2.3.4 Push your image
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/4b1b1a29-bc19-454a-9143-75733d0adb97)
+### Step 3.0 Deploying an app to a Swarm
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/3cc0a7e7-9cfc-4f55-a920-7a85ddfd33ab)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/c33326d4-e9f8-4f85-9a65-5ee80d5311d8)
 
