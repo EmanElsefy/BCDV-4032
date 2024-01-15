@@ -11,3 +11,12 @@
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/81904f01-b0d5-4a7a-a1c9-5463b76c92e7)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/4ebad53e-51f4-4fc4-9674-794fd8f5368d)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/cf42d05f-4e0b-4bc9-920f-6ff2560a911b)
+
+## Kubectl and minikube installation:
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/b5b26ec6-ec44-439a-bc66-aeaa089deb88)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/0e6367b0-31b9-47da-9a45-473b7e44828d)
+
+## Quiz: 
+1- No limit of applications. If it can run in a container, then it's good to go!
+2- Does not set up or managing servers by itself!
+3- Does not provide comprehensive configurations or systems!
