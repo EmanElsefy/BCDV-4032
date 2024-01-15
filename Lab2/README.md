@@ -11,6 +11,8 @@
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/81904f01-b0d5-4a7a-a1c9-5463b76c92e7)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/4ebad53e-51f4-4fc4-9674-794fd8f5368d)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/cf42d05f-4e0b-4bc9-920f-6ff2560a911b)
+Igot a port error:
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/bdd6370c-9e3d-4ba9-95e0-6712bddf54ec)
 
 ## Kubectl and minikube installation:
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/b5b26ec6-ec44-439a-bc66-aeaa089deb88)
