@@ -22,3 +22,10 @@
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/ae6f2633-33bd-438c-b57f-edf1bd1d131c)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/b36bdb99-f884-4c65-b155-446d735c23ac)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/92280ac4-5974-47d7-be8c-2664b05b6082)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/6b552632-20af-4824-9cb2-8b4636efbb6a)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/870938ff-a713-4455-ac0c-140db2ca3c02)
+### NPM INSTALLATION
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/1b834f2d-b2fe-4e09-974c-1ff647aa7276)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/ee48cfce-6848-4a35-9e2e-3a395a20d5c6)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/e2d58384-737f-4ca5-ab87-a2ff56a4295b)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/6585afda-2ccd-4eed-b897-16408d3570e6)
