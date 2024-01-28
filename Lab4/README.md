@@ -1,5 +1,5 @@
 # Screenshots
-## using Kompose to create YAML files to run docker-ethereum application
+## Using kompose to create YAML files to run docker-ethereum application
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/3beebc46-ce04-446e-8a9c-f29887b5cfe9)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/3db015a5-71cc-4e1d-ba57-cbb355b99d41)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/0684887d-4db4-4f49-94e2-cef5024b5792)
