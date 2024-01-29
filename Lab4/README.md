@@ -14,4 +14,8 @@
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/0228b27f-5b2b-4c47-9831-b5fd08d7261c)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/76007290-74f0-4261-b8c2-1fae1e6d51e6)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/4da83346-07e5-4fab-a374-2135ae2a576f)
+## Load balancing
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/702c5454-8702-454d-9f5e-d5054eff24f4)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/1037d8fb-9e6b-46fd-ae2b-c759d8feb246)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/8b1e5855-9e3c-441c-bd6a-7a65e8a6bd56)
 
