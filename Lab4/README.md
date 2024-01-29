@@ -20,5 +20,7 @@
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/8b1e5855-9e3c-441c-bd6a-7a65e8a6bd56)
 ## Horizontal Pod Autoscaler
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/14cb62f9-d290-4f3c-a5a0-c6e43e5fee2f)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/6b36f052-c2bd-4d43-b091-6ac094151455)
 ## User creation and role assignment
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/db609a70-672d-43bc-9e6d-71ae4d574098)
 
