@@ -10,7 +10,13 @@
 ## Grafana installation
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/cb9a83f0-7df4-4c64-b47c-f2b47ad43a5f)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/6048224d-c857-415a-81dd-6b4a064104c1)
-![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/1a0f326f-cb9e-4e17-a17a-f2125f5e800a)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/3c12222c-4513-4a85-b4d0-7c687a4ef237)
+### got this error with edge
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/c91073b0-ffb9-4007-bf57-57e927b4ae04)
+### running on chrome
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/9ae8a03f-6a27-42cf-b1fb-04aae511c908)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/9ff48d69-15b5-4d0e-adfa-db1a38f659b2)
+
 
 ## Connecting Prometheus as Data source to Grafana
 ## Grafana Dashboard
