@@ -10,6 +10,7 @@
 ## Grafana installation
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/cb9a83f0-7df4-4c64-b47c-f2b47ad43a5f)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/6048224d-c857-415a-81dd-6b4a064104c1)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/1a0f326f-cb9e-4e17-a17a-f2125f5e800a)
 
 ## Connecting Prometheus as Data source to Grafana
 ## Grafana Dashboard
