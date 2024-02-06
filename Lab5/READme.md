@@ -16,7 +16,11 @@
 ### running on chrome
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/9ae8a03f-6a27-42cf-b1fb-04aae511c908)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/9ff48d69-15b5-4d0e-adfa-db1a38f659b2)
-
-
 ## Connecting Prometheus as Data source to Grafana
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/12e182c7-61b2-4e99-9e94-c2d3400580fd)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/5598150f-9df3-407f-a650-3bf2477acfed)
 ## Grafana Dashboard
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/2e11837f-3b17-459a-ae82-c6ab921e319d)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/f3fd723a-f59a-4a8c-9962-9b54d0059d11)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/0b971fe5-f0f4-460a-b8e8-325b0ff21b5d)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/d300fd84-aa9a-4b51-ad75-3804db441aa5)
