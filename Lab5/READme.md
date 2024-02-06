@@ -8,6 +8,8 @@
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/088723b3-6fb1-4e9b-822c-6ed3de178f98)
 ![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/91ace83f-680f-4eb9-93bb-5f0d886654c3)
 ## Grafana installation
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/cb9a83f0-7df4-4c64-b47c-f2b47ad43a5f)
+![image](https://github.com/EmanElsefy/BCDV-4032/assets/113483167/6048224d-c857-415a-81dd-6b4a064104c1)
 
 ## Connecting Prometheus as Data source to Grafana
 ## Grafana Dashboard
